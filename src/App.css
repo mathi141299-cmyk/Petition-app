@@ -1,0 +1,8 @@
+:root {
+  --table-border: #e6e6e6;
+  --table-header: #E8EDE6;
+  --table-cell-background: #f0f0f0;
+  --table-cell-disabled-background: #f8f8f8;
+  --disabled-background: #f6f6f6;
+  --table-cell-disabled-background: #f8f8f8;
+}
